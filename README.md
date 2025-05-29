@@ -1,6 +1,6 @@
 # Dead-Stock-Detection-and-Auto-Clearance-System-Implementation
 
-# Dead Stock Detection and Auto Clearance System Implementation
+
 
 ## Project Overview
 
