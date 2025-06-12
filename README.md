@@ -125,4 +125,4 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 
-For questions or suggestions, please connect via [LinkedIn](https://linkedin.com/in/pranjalpatil) or email.
+For questions or suggestions, please connect via [LinkedIn](https://www.linkedin.com/in/pranjal-patil07/) 
