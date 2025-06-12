@@ -114,13 +114,9 @@ The project aims to address the challenge of dead stock in grocery inventory man
 * **Advanced Clearance Algorithms** for dynamic pricing
 * **Real-Time Processing** for inventory updates
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ## Acknowledgments
 
-* Dataset: `Grocery_Inventory_and_Sales_Dataset.csv` (add source if known)
+* Dataset: `Grocery_Inventory_and_Sales_Dataset.csv` 
 * Libraries: pandas, scikit-learn, matplotlib, seaborn
 
 ## Contact
